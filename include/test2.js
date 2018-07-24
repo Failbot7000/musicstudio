@@ -1,0 +1,1 @@
+document.write("Banana republic<br />Bananasnasnans");
