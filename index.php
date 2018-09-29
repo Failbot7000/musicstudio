@@ -280,9 +280,9 @@
         <img id="title-image" src="images/logo.jpg" />
         <h1 id="mega-title">Appassionato Music Studio</h1>
         
-        <?php
-            include("include/test.php");
-        ?>
+        <!--<?php
+            //include("include/test.php");
+        ?>-->
         
         <!-- Begin nav bar -->
         <nav class="navbar navbar-default">
