@@ -1,0 +1,361 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="keywords" content="appassionato music studio, music, studio, daniel, kuzuhara, piano, voilin, passion, appassionato" />
+    <meta name="description" content="Appassionato music studio is owned and operated by Daniel Kuzuhara. Professional masters level pianist. Apply now for lessions, or check our calendar for upcomming events" />
+    <link rel="icon" type="img/ico" href="images/fav.jpg">
+    <!-- Jquery -->
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <!-- Datatables -->
+    <script src="https://cdn.datatables.net/1.10.15/js/jquery.dataTables.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.15/css/jquery.dataTables.min.css" />    
+    <link rel="stylesheet" type="text/css" href="css/footer-distributed.css" />
+    <script src='include/moment.min.js'></script>
+    <!-- Bootstrap -->
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    
+    <!-- Optional theme -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+    
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+    <!-- End Bootstrap -->
+    <!-- JS Slider -->
+    <script src="include/jssor.slider-25.0.7.min.js" type="text/javascript"></script>
+    <script>
+    $(document).ready(function() {
+        $('#example').DataTable();
+        var jssor_1_SlideshowTransitions = [
+                  {$Duration:1200,$Opacity:2}
+                ];
+    
+                var jssor_1_options = {
+                  $AutoPlay: 1,
+                  $SlideshowOptions: {
+                    $Class: $JssorSlideshowRunner$,
+                    $Transitions: jssor_1_SlideshowTransitions,
+                    $TransitionsOrder: 1
+                  },
+                  $ArrowNavigatorOptions: {
+                    $Class: $JssorArrowNavigator$
+                  },
+                  $BulletNavigatorOptions: {
+                    $Class: $JssorBulletNavigator$
+                  }
+                };
+    
+                var jssor_1_slider = new $JssorSlider$("jssor_1", jssor_1_options);
+    
+                /*#region responsive code begin*/
+                /*remove responsive code if you don't want the slider scales while window resizing*/
+                function ScaleSlider() {
+                    var refSize = jssor_1_slider.$Elmt.parentNode.clientWidth;
+                    if (refSize) {
+                        refSize = Math.min(refSize, 980);
+                        jssor_1_slider.$ScaleWidth(refSize);
+                    }
+                    else {
+                        window.setTimeout(ScaleSlider, 30);
+                    }
+                }
+                ScaleSlider();
+                $(window).bind("load", ScaleSlider);
+                $(window).bind("resize", ScaleSlider);
+                $(window).bind("orientationchange", ScaleSlider);
+            
+    } );
+    
+    </script>
+    <!-- Event Buttons Javascript -->
+    <script>
+    window.onload = function(){ 
+    // Get the modal
+    var modal = document.getElementById('myModal');
+    
+    // Get the button that opens the modal
+    var btn = document.getElementById("july14");
+    
+    // Get the <span> element that closes the modal
+    var span = document.getElementsByClassName("close")[0];
+    
+    // When the user clicks the button, open the modal 
+    btn.onclick = function() {
+        modal.style.display = "block";
+    }
+    
+    // When the user clicks on <span> (x), close the modal
+    span.onclick = function() {
+        modal.style.display = "none";
+    }
+    
+    // When the user clicks anywhere outside of the modal, close it
+    window.onclick = function(event) {
+        if (event.target == modal) {
+            modal.style.display = "none";
+        }
+    }
+    };
+    </script>
+    <style>
+        /* jssor slider loading skin double-tail-spin css */
+    
+        .jssorl-004-double-tail-spin img {
+            animation-name: jssorl-004-double-tail-spin;
+            animation-duration: 1.2s;
+            animation-iteration-count: infinite;
+            animation-timing-function: linear;
+        }
+    
+        @keyframes jssorl-004-double-tail-spin {
+           	from {
+                transform: rotate(0deg);
+            }
+    
+            to {
+                transform: rotate(360deg);
+            }
+       	}
+    
+        .jssorb051 .i {position:absolute;cursor:pointer;}
+        .jssorb051 .i .b {fill:#fff;fill-opacity:0.5;stroke:#000;stroke-width:400;stroke-miterlimit:10;stroke-opacity:0.5;}
+        .jssorb051 .i:hover .b {fill-opacity:.7;}
+        .jssorb051 .iav .b {fill-opacity: 1;}
+        .jssorb051 .i.idn {opacity:.3;}
+    
+        .jssora051 {display:block;position:absolute;cursor:pointer;}
+        .jssora051 .a {fill:none;stroke:#fff;stroke-width:360;stroke-miterlimit:10;}
+        .jssora051:hover {opacity:.8;}
+        .jssora051.jssora051dn {opacity:.5;}
+        .jssora051.jssora051ds {opacity:.3;pointer-events:none;}
+        </style>
+        <style>
+        
+        @media screen and (min-width: 768px) {
+            #mega-title {
+                display: inline-block;
+                font-size: 34pt;
+                padding-top: 15px;
+                white-space: nowrap;
+                margin-left: auto;
+                margin-right: auto;
+                font-family: passion;
+                text-shadow: 4px 4px 3px rgba(0,0,0,0.1); 
+            }		
+        }
+        @font-face { font-family: passion; src: url('documents/passionfont.ttf'); } 
+        
+        /*@media screen and (max-width: 768px) and (min-width: 600px;) {*/
+        @media screen and (max-width: 768px) {
+        #mega-title {
+            display: inline-block;
+            font-size: 4vw;
+            white-space: nowrap;
+            padding-top: 10px;
+            margin-left: auto;
+            margin-right: auto;
+            font-family: passion;
+            text-shadow: 4px 4px 3px rgba(0,0,0,0.1); 
+        }
+        }
+        
+        #gimme-space {
+            margin-left: 15px;	
+        }
+		.global-div {
+            max-width: 960px;	
+            margin-left: auto;
+            margin-right: auto;
+        }
+        .footer-distributed {
+            position:fixed;
+            left:0px;
+            bottom:0px;
+            height:120px;
+            width:100%;
+        }
+
+        .footer-bottom {
+            margin-bottom: 130px;	
+        }
+        #calendar {
+            max-width: 900px;
+            margin: 0 auto;
+            margin-bottom: 200px;
+        }
+        tbody tr {
+            height: 120px;	
+        }
+        table thead tr td{
+            width: 14.2%;
+            text-align: top;
+        }
+        #title-image {
+            display: inline-block;
+            max-width: 14%;
+            padding: 5px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        
+        <!-- Button CSS -->
+        /* The Modal (background) */
+        .modal {
+            display: none; /* Hidden by default */
+            position: fixed; /* Stay in place */
+            z-index: 1; /* Sit on top */
+            padding-top: 100px; /* Location of the box */
+            left: 0;
+            top: 0;
+            width: 100%; /* Full width */
+            height: 100%; /* Full height */
+            overflow: auto; /* Enable scroll if needed */
+            background-color: rgb(0,0,0); /* Fallback color */
+            background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+        }
+        
+        /* Modal Content */
+        .modal-content {
+            position: relative;
+            background-color: #fefefe;
+            margin: auto;
+            padding: 0;
+            border: 1px solid #888;
+            width: 80%;
+            box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
+            -webkit-animation-name: animatetop;
+            -webkit-animation-duration: 0.4s;
+            animation-name: animatetop;
+            animation-duration: 0.4s
+        }
+        
+        /* Add Animation */
+        @-webkit-keyframes animatetop {
+            from {top:-300px; opacity:0} 
+            to {top:0; opacity:1}
+        }
+        
+        @keyframes animatetop {
+            from {top:-300px; opacity:0}
+            to {top:0; opacity:1}
+        }
+        
+        /* The Close Button */
+        .close {
+            color: white;
+            float: right;
+            font-size: 28px;
+            font-weight: bold;
+        }
+        
+        .close:hover,
+        .close:focus {
+            color: #000;
+            text-decoration: none;
+            cursor: pointer;
+        }
+        
+        .modal-header {
+            padding: 2px 16px;
+            background-color: #5cb85c;
+            color: white;
+        }
+        
+        .modal-body {padding: 2px 16px;}
+        
+        .modal-footer {
+            padding: 2px 16px;
+            background-color: #5cb85c;
+            color: white;
+        }
+        .main-text {
+            margin: 0px 10px 0px 10px;
+            
+        }
+        
+    </style>
+    <title>Appassionato Music Studio</title>
+</head>
+
+<body>
+	<!-- Global Div -->
+	<div class="footer-bottom global-div">
+		<!-- Begin Header, logo and title -->
+        <img id="title-image" src="images/FH-logo-r3.png" />
+        <h1 id="mega-title">Appassionato Music Studio</h1>
+
+        <!-- Begin nav bar -->
+        <nav class="navbar navbar-default">
+        	<div class="container-fluid">
+            	<div class="navbar-header">
+                	<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#main-navbar-collapse-1" aria-expanded="false">
+        				<span class="sr-only">Toggle navigation</span>
+        				<span class="icon-bar"></span>
+        				<span class="icon-bar"></span>
+        				<span class="icon-bar"></span>
+      				</button>
+      				<a class="navbar-brand" href="index.html">Home</a>
+    			</div>
+                <!--Above: Mobile menu Below: Desktop menu -->
+                <div class="collapse navbar-collapse" id="main-navbar-collapse-1">
+      				<ul class="nav navbar-nav">
+        				<li><a href="bio.html">Biography<span class="sr-only">(current)</span></a></li>
+        				<li><a href="samples.html">Samples</a></li>
+                        <li><a href="studio.html">Events</a></li>
+                        <li><a href="trio.html">Trio</a></li>
+                        <li><a href="contact.html">Contact</a></li>
+     				 </ul>
+      				<!--<form class="navbar-form navbar-right">
+        				<div class="form-group">
+          					<input type="text" class="form-control" placeholder="Search">
+        				</div>
+        				<button type="submit" class="btn btn-default">Search Site</button>
+      				</form>-->
+                </div>
+            </div>
+        </nav>
+     <!-- Begin main content -->
+    <div class="main-text">
+        <img src="images/portrait.jpg" width="300px;" style="float: right; margin: 10px;" />
+        <h2>Biography</h2>
+        <h3>Early life</h3>
+        <p>Daniel Kuzuhara is a pianist born in Madison, Wisconsin who graduated with a master’s degree in Piano Performance from the Indiana University Jacobs School of Music, studying under Dr. Karen Shaw. Prior to his studies in Indiana, he studied at under Professor Anthony Padilla at Lawrence University, Julie Chang, and Karen Hill.</p>  
+ 
+        <p>Daniel is in his 22nd year of classical piano study and 11th year of his classical violin study. For a long time, Daniel has been interested in entertaining, inspiring, and teaching members of the community. He began his own studio in 2016, and later created the name of Appassionato Music Studio to reflect the philosophies and values of his studio.</p>
+ 
+        <p>Throughout his career, Daniel has received multiple awards and honors. He won the 2011 Neale-Silva competition sponsored by Wisconsin Public Radio and was featured in a live performance on WPR. He also won second prize in the 2013 Schubert Club Scholarship competition and performed in the winner’s recital. Daniel is the recipient of the Lawrence University Marjory Irvin prize, awarded to a pianist for excellence in solo and chamber music. He has also earned honorable mention recognitions at the 2013 Music Teachers National Association competition and the 2014 Wisconsin Music Teachers Association Badger Collegiate competition (second place).  </p>
+         
+        <p>Outside of teaching, Daniel has co-founded the Apostle Island trio, who gave their debut performance at the Steinway & Sons store in Madison on January 2017. He gives solo and chamber performances throughout the year and has taken leadership roles in multiple musical events in the Madison area. As a leader, he has been elected as treasurer of the Madison Area Music Educators (MAME), a local chapter of Music Teacher National Association (MTNA).  He was a former member of the Middleton Community Orchestra, where he played the violin.</p>
+        
+        <p>Daniel looks forward to continuing to educate, inspire, and share music with the community for many years to come. </p>
+    <hr />
+    </div>
+    <!-- End main content --> 
+      
+    <!-- Begin Footer -->
+
+   	<footer class="footer-distributed">
+		<div class="global-div">
+			<div class="footer-right">
+				<a target="_blank" title="find me on Facebook" href="http://www.facebook.com/PLACEHOLDER"><img alt="follow me on facebook" width="35px" height="35px;" src="images/facebook.png" border=0><i class="fa"></i></a>
+				<a target="_blank" title="follow me on twitter" href="http://www.twitter.com/PLACEHOLDER"><img alt="follow me on twitter" width="35px" height="35px;" src="images/twitter.png" border=0><i class="fa"></i></a>
+				<a target="_blank" title="follow me on youtube" href="http://www.youtube.com/PLACEHOLDER"><img alt="follow me on youtube" width="35px" height="35px;" src="images/youtube.png" border=0><i class="fa"></i></a>
+                <a target="_blank" title="follow me on linkedin" href="http://www.linkedin.com/PLACEHOLDER"><img alt="follow me on linkedin" width="35px" height="35px;" src="images/linkedin.png" border=0><i class="fa"></i></a>
+				<a target="_blank" title="follow me on instagram" href="http://www.instagram.com/PLACEHOLDER"><img alt="follow me on instagram" width="35px" height="35px;" src="images/instagram.png" border=0><i class="fa"></i></a>              
+			</div>
+			<div class="footer-left">
+			    <div class="footer-address">
+				    <p class="footer-links">
+					    <span>8107 Starr Grass Dr. Madison WI, 53719</span><br />
+                        <span>(608)-209-0088</span>
+				    </p>
+				</div>
+				<p>Appassionato Music Studio &copy; 2017</p>
+			</div>
+		</div>
+	</footer>
+    <!-- End Footer -->
+</body>
+</html>
