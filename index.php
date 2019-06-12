@@ -11,7 +11,6 @@
             </div>
             <div data-u="slides" style="cursor:default;position:relative;top:0px;left:0px;width:980px;height:380px;overflow:hidden;">
                 <div>
-<<<<<<< HEAD
                     <img data-u="image" src="images/slideshow/1.jpg" />
                 </div>
                 <div>
@@ -25,42 +24,6 @@
                 </div>
                 <div>
                     <img data-u="image" src="images/slideshow/7.jpg" />
-=======
-                    <img data-u="image" src="images/001.jpg" />
-                </div>
-                <div>
-                    <img data-u="image" src="images/002.jpg" />
-                </div>
-                <div>
-                    <img data-u="image" src="images/003.jpg" />
-                </div>
-                <div>
-                    <img data-u="image" src="images/004.jpg" />
-                </div>
-                <div>
-                    <img data-u="image" src="images/005.jpg" />
-                </div>
-                <div>
-                    <img data-u="image" src="images/006.jpg" />
-                </div>
-                <div>
-                    <img data-u="image" src="images/007.jpg" />
-                </div>
-                <div>
-                    <img data-u="image" src="images/008.jpg" />
-                </div>
-                <div>
-                    <img data-u="image" src="images/009.jpg" />
-                </div>
-                <div>
-                    <img data-u="image" src="images/010.jpg" />
-                </div>
-                <div>
-                    <img data-u="image" src="images/011.jpg" />
-                </div>
-                <div>
-                    <img data-u="image" src="images/012.jpg" />
->>>>>>> f3f18f11387319b4fb5731d9798febd16fdd73ea
                 </div>
                 <a data-u="any" href="https://www.jssor.com" style="display:none">js slider</a>
             </div>
