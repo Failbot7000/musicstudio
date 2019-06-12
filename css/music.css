@@ -1,0 +1,214 @@
+/* jssor slider loading skin double-tail-spin css */
+    
+        .jssorl-004-double-tail-spin img {
+            animation-name: jssorl-004-double-tail-spin;
+            animation-duration: 1.2s;
+            animation-iteration-count: infinite;
+            animation-timing-function: linear;
+        }
+    
+        @keyframes jssorl-004-double-tail-spin {
+           	from {
+                transform: rotate(0deg);
+            }
+    
+            to {
+                transform: rotate(360deg);
+            }
+       	}
+    
+        .jssorb051 .i {position:absolute;cursor:pointer;}
+        .jssorb051 .i .b {fill:#fff;fill-opacity:0.5;stroke:#000;stroke-width:400;stroke-miterlimit:10;stroke-opacity:0.5;}
+        .jssorb051 .i:hover .b {fill-opacity:.7;}
+        .jssorb051 .iav .b {fill-opacity: 1;}
+        .jssorb051 .i.idn {opacity:.3;}
+    
+        .jssora051 {display:block;position:absolute;cursor:pointer;}
+        .jssora051 .a {fill:none;stroke:#fff;stroke-width:360;stroke-miterlimit:10;}
+        .jssora051:hover {opacity:.8;}
+        .jssora051.jssora051dn {opacity:.5;}
+        .jssora051.jssora051ds {opacity:.3;pointer-events:none;}
+
+
+
+        #mega-title {
+            display: inline-block;
+            font-size: 50pt;
+            white-space: nowrap;
+            margin-left: auto;
+            margin-right: auto;
+            margin-top: auto;
+            font-family: 'Charmonman', cursive;
+
+        }	
+        
+        @media screen and (max-width: 900px) {
+            #mega-title {
+                font-size: 42pt;
+            }		
+            
+        }
+        
+        @media screen and (max-width: 768px) {
+            #mega-title {
+                font-size: 32pt;
+            }		
+            
+        }
+        
+        @media screen and (max-width: 588px) {
+            #mega-title {
+                font-size: 26pt;
+            }		
+            
+        }
+        
+        @media screen and (max-width: 488px) {
+            #mega-title {
+                font-size: 20pt;
+            }		
+            
+        }
+        
+        @media screen and (max-width: 388px) {
+            #mega-title {
+                font-size: 16pt;
+            }		
+            
+        }
+        
+        @media screen and (max-width: 300px) {
+            #mega-title {
+                font-size: 12pt;
+            }		
+            
+        }
+        
+        .footer-distributed {
+            position:fixed;
+            left:0px;
+            bottom:0px;
+            height: 120px;
+            width:100%;
+        }
+        
+        .footer-bottom {
+            margin-bottom: 130px;	
+        }
+
+        
+        @media screen and (max-width: 768px) {
+        .footer-distributed {
+            position: static;
+            height: auto;
+            left: auto;
+            bottom: auto;
+        }	
+         .footer-bottom {
+            margin-bottom: 0px;	
+        }
+            
+        }
+        
+
+        
+        #gimme-space {
+            margin-left: 15px;	
+        }
+		.global-div {
+            max-width: 960px;	
+            margin-left: auto;
+            margin-right: auto;
+        }
+        
+        
+
+        #calendar {
+            max-width: 900px;
+            margin: 0 auto;
+            margin-bottom: 200px;
+        }
+        tbody tr {
+            height: 120px;	
+        }
+        table thead tr td{
+            width: 14.2%;
+            text-align: top;
+        }
+        #title-image {
+            display: inline-block;
+            max-width: 14%;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        
+        
+        /* The Modal (background) */
+        .modal {
+            display: none; /* Hidden by default */
+            position: fixed; /* Stay in place */
+            z-index: 1; /* Sit on top */
+            padding-top: 100px; /* Location of the box */
+            left: 0;
+            top: 0;
+            width: 100%; /* Full width */
+            height: 100%; /* Full height */
+            overflow: auto; /* Enable scroll if needed */
+            background-color: rgb(0,0,0); /* Fallback color */
+            background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+        }
+        
+        /* Modal Content */
+        .modal-content {
+            position: relative;
+            background-color: #fefefe;
+            margin: auto;
+            padding: 0;
+            border: 1px solid #888;
+            width: 80%;
+            box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
+            -webkit-animation-name: animatetop;
+            -webkit-animation-duration: 0.4s;
+            animation-name: animatetop;
+            animation-duration: 0.4s
+        }
+        
+        /* Add Animation */
+        @-webkit-keyframes animatetop {
+            from {top:-300px; opacity:0} 
+            to {top:0; opacity:1}
+        }
+        
+        @keyframes animatetop {
+            from {top:-300px; opacity:0}
+            to {top:0; opacity:1}
+        }
+        
+        /* The Close Button */
+        .close {
+            color: white;
+            float: right;
+            font-size: 28px;
+            font-weight: bold;
+        }
+        
+        .close:hover,
+        .close:focus {
+            color: #000;
+            text-decoration: none;
+            cursor: pointer;
+        }
+        
+        .modal-header {
+            padding: 2px 16px;
+            background-color: #5cb85c;
+            color: white;
+        }
+        
+        .modal-body {padding: 2px 16px;}
+        
+        .modal-footer {
+            padding: 2px 16px;
+            background-color: #5cb85c;
+            color: white;
+        }
