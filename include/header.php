@@ -141,12 +141,19 @@
                         <li><a href="contact.php">Contact</a></li>
      				 </ul>
       				<form class="navbar-form navbar-right">
+<<<<<<< HEAD
         				<div style="border: 1px solid blue;">
                             Search Site
                             <gcse:searchbox></gcse:searchbox>
                              <button type="submit" class="btn btn-default">Search Site</button>
                         </div>
                        
+=======
+        				<div class="form-group">
+          					<input type="text" class="form-control" placeholder="Search">
+        				</div>
+        				<button type="submit" class="btn btn-default">Search Site</button>
+>>>>>>> f3f18f11387319b4fb5731d9798febd16fdd73ea
       				</form>
                 </div>
             </div>
