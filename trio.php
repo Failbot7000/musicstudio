@@ -3,7 +3,7 @@
         ?>
      	<!-- Begin Main Content -->
         
-      <style> <!-- Timeline Styling -->
+      <!--<style> Timeline Styling - Old and unused
 @import url(http://fonts.googleapis.com/css?family=Open+Sans:300,700);
 
 /* Layout */
@@ -104,9 +104,9 @@
   padding: 0.25em 1em 0.2em 1em;
 }
 
-    </style>
+    </style>-->
         
-        <ul class="timeline">
+        <!--<ul class="timeline">
           <li class="timeline-event">
             <label class="timeline-event-icon"></label>
             <div class="timeline-event-copy">
@@ -144,7 +144,17 @@
               <p>Behold! the month in which this will be completed! (hopefully)</p>
             </div>
           </li>
-        </ul>  
+        </ul>  -->
+        
+        
+        <h2>Trio</h2>
+        
+        <img src="images/photos/trio.jpg" width="400px" style="float: right; margin: 10px;" />
+        
+        <h3>Upcoming trio events</h3>
+        <p>More to come, stay tuned!</p>
+        
+        
         
         <!-- End Main Content -->
     <?php

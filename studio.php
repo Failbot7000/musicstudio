@@ -2,7 +2,7 @@
             include("include/header.php");
         ?>
      	<!-- Begin Main Content -->
-        <h2>July 2017</h2>
+        <!--<h2>July 2017</h2> Old Calender system, not in use
 		<div class="table-responsive">
         <table class="table table-bordered">
         	<thead>
@@ -76,7 +76,6 @@
         </div>
         <div id="myModal" class="modal">
         
-          	<!-- Modal content -->
          	<div class="modal-content">
            	 	<div class="modal-header">
               		<span class="close">&times;</span>
@@ -90,7 +89,9 @@
               		<h3>Event Footer! (Also optional)</h3>
             	</div>
          	</div>
-		</div>
+		</div>-->
+		
+		<h2>What goes on this page now?</h2>
         
         <!-- End Main Content -->
     </div>   

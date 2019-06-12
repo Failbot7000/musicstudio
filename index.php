@@ -25,6 +25,12 @@
                 <div>
                     <img data-u="image" src="images/slideshow/7.jpg" />
                 </div>
+                <div>
+                    <img data-u="image" src="images/slideshow/8.jpg" />
+                </div>
+                <div>
+                    <img data-u="image" src="images/slideshow/9.jpg" />
+                </div>
                 <a data-u="any" href="https://www.jssor.com" style="display:none">js slider</a>
             </div>
             <!-- Bullet Navigator -->
