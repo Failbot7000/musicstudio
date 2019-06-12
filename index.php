@@ -59,7 +59,7 @@
         
         
 		<h2>About Appassionato Music Studio</h2>
-        
+
         <!--#include file="include/test2.js"-->
         
         <p>The studio founded by Daniel Kuzuhara began in July of 2016, where he began teaching private piano and violin lessons. The name Appassionato Music Studio was given in 2017 to better symbolize the core values of the studio. “Appassionato” is the Italian word for passionate. This word demonstrates the studio’s desire to create passion and emotion within the students’ music. The studio strives for the right balance between enjoyment of the art and maintaining a high level of playing from the students. Appassionato Music Studio constantly invites challenges and sets high yet reasonable goals for students to maximize the amount of progress, reward, and satisfaction that comes with the journey of learning music.</p>

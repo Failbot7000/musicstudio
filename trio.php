@@ -149,7 +149,7 @@
         
         <h2>Trio</h2>
         
-        <img src="images/photos/trio.jpg" width="400px" style="float: right; margin: 10px;" />
+        <img src="images/photos/trio.JPG" width="400px" style="float: right; margin: 10px;" />
         
         <h3>Upcoming trio events</h3>
         <p>More to come, stay tuned!</p>

@@ -141,14 +141,6 @@
                         <li><a href="trio.php">Trio</a></li>
                         <li><a href="contact.php">Contact</a></li>
      				 </ul>
-      				<form class="navbar-form navbar-right">
-        				<div style="border: 1px solid blue;">
-                            Search Site
-                            <gcse:searchbox></gcse:searchbox>
-                             <button type="submit" class="btn btn-default">Search Site</button>
-                        </div>
-                       
-      				</form>
                 </div>
             </div>
         </nav>
