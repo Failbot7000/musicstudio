@@ -138,6 +138,7 @@
         				<li><a href="samples.php">Samples</a></li>
                         <li><a href="studio.php">Studio</a></li>
                         <li><a href="events.php">Events</a></li>
+                        <li><a href="lessons.php">Lessons</a></li>
                         <li><a href="trio.php">Trio</a></li>
                         <li><a href="contact.php">Contact</a></li>
      				 </ul>

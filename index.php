@@ -62,12 +62,11 @@
 
         <!--#include file="include/test2.js"-->
         
-        <p>The studio founded by Daniel Kuzuhara began in July of 2016, where he began teaching private piano and violin lessons. The name Appassionato Music Studio was given in 2017 to better symbolize the core values of the studio. “Appassionato” is the Italian word for passionate. This word demonstrates the studio’s desire to create passion and emotion within the students’ music. The studio strives for the right balance between enjoyment of the art and maintaining a high level of playing from the students. Appassionato Music Studio constantly invites challenges and sets high yet reasonable goals for students to maximize the amount of progress, reward, and satisfaction that comes with the journey of learning music.</p>
-        
-		<p>Appassionato Music Studio currently contains over 20 students ranging from age 5 to 13. Students of Appassionato Music Studio have shown great achievement throughout the studio’s two years. In addition to the strong performances they demonstrate in their studio recitals, they also attend multiple other events and have received recognition for their hard work. Students have received top marks in the National Federation of Music Clubs (NFMC) Junior Festival. In addition, students hold a 100% pass rate in the Associated Board of the Royal School of Music (ABRSM) exams, while multiple students received merit (honors) and one received distinction (top honors). Two students have competed in Rhapsody Arts Center’s Sonatina Festival, with both students winning trophies in their respective categories. Most notably, four students recently entered the 2018 Steinway Piano Competition in Madison, with one of them winning first place in the Division I category, a performance in the winner’s recital, and national recognition on the Steinway website. </p>
+        <p>Welcome to the Appassionato Music Studio website page. Appassionato Music Studio is a music studio based in Madison, WI that offers multiple services, primarily private lessons for piano and violin. Other services offered include theory tutoring, piano accompanying services, and piano performer for hire at various events.</p>
 
-		<p>Appassionato Music Studio currently offers private piano lessons, violin lessons, ABRSM theory tutoring, accompanying services, and his own services as a performer for any concerts/events. The studio’s services are open to children and adults of all ages. Students of all experience levels are welcome, including beginners. </p>
+        <p>Events, lesson information, and sound/video samples can be found on this website. You may also check out our social media pages (click icons at the bottom of the page) for more photos and videos from various events.</p>
 
+        <p>Feel free to contact me with any questions or inquiries at dckuzuhara.appassionato@gmail.com or via phone at (608) 209-0088. </p> 
         <!-- end text -->
         
             <p>Hours: Tuesday-Friday: 3pm-9pm, Saturday: 8:30am-6pm Monday: by appointment only </p>	
