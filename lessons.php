@@ -9,7 +9,7 @@
 
         <p>If you are interested, please contact Daniel Kuzuhara via phone at (608) 209-0088 or via email at <a href="mailto:dckuzuhara.appassionato@gmail.com">dckuzuhara.appassionato@gmail.com</a>. At this point, you will be given the opportunity to make an appointment to meet at his home studio where you will learn more about him and he will get to know you in person. The perspective student will also be given a brief free trial lesson to help determine if the student is a good match for the studio and to give the student (and family) an opportunity to evaluate if Mr. Kuzuhara is a good match for the student, which is also very important for a positive learning experience. Should you and Mr. Kuzuhara both decide they are ready to begin lessons, a regular weekly lesson time will be negotiated.</p>
 
-        <p>You will find the attached Studio Policy and Enrollment Form attached below for your information.</p>
+        <p>You will find the Studio Policy and Enrollment Form attached below for your information.</p>
         
         <p>
             <a href="documents/enrollmentform.pdf">Enrollment form</a><br />
