@@ -12,8 +12,8 @@
         <p>You will find the Studio Policy and Enrollment Form attached below for your information.</p>
         
         <p>
-            <a href="documents/enrollmentform.pdf">Enrollment form</a><br />
-            <a href="documents/policy.pdf">Music studio policies</a>
+            <a href="/documents/EnrollmentForm.pdf">Enrollment form</a><br >
+            <a href="/documents/Policy.pdf">Music studio policies</a>
             
         </p>
         <!-- End Main Content -->

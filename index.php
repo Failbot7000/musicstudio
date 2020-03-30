@@ -20,7 +20,7 @@
                     <img data-u="image" src="images/slideshow/3.jpg" />
                 </div>
                 <div>
-                    <img data-u="image" src="images/slideshow/4.jpg" />
+                    <img data-u="image" src="images/slideshow/10.jpg" />
                 </div>
                 <div>
                     <img data-u="image" src="images/slideshow/7.jpg" />

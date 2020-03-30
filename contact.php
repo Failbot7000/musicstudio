@@ -13,7 +13,7 @@
 		<h2>Email</h2>
         <p><a href="mailto:dckuzuhara@gmail.com">dckuzuhara@gmail.com</a></p>
         <h2>Business Hours</h2>
-        <p>Tuesday-Friday: 3pm-9pm, Saturday: 7:30am-6pm, Monday: by scheduled appointments only</p>
+        <p>Monday-Friday: 3:30pm-7:30pm, Saturday: 7:30am-7pm</p>
         
 	</div> 
     <!-- End Main content -->
