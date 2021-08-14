@@ -30,7 +30,10 @@
         .jssora051.jssora051ds {opacity:.3;pointer-events:none;}
 
 
-
+        @font-face {
+            font-family: fancyFont;
+            src: url(sansation_light.woff);
+        }
         #mega-title {
             display: inline-block;
             font-size: 50pt;
@@ -38,7 +41,7 @@
             margin-left: auto;
             margin-right: auto;
             margin-top: auto;
-            font-family: 'Charmonman', cursive;
+            font-family: 'Great Vibes', cursive;
 
         }	
         
