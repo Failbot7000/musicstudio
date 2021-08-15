@@ -36,7 +36,7 @@
         }
         #mega-title {
             display: inline-block;
-            font-size: 50pt;
+            font-size: 60pt;
             white-space: nowrap;
             margin-left: auto;
             margin-right: auto;
@@ -47,35 +47,35 @@
         
         @media screen and (max-width: 900px) {
             #mega-title {
-                font-size: 56pt;
+                font-size: 54pt;
             }		
             
         }
         
         @media screen and (max-width: 768px) {
             #mega-title {
-                font-size: 42pt;
+                font-size: 40pt;
             }		
             
         }
         
         @media screen and (max-width: 588px) {
             #mega-title {
-                font-size: 32pt;
+                font-size: 30pt;
             }		
             
         }
         
         @media screen and (max-width: 488px) {
             #mega-title {
-                font-size: 26pt;
+                font-size: 24pt;
             }		
             
         }
         
         @media screen and (max-width: 388px) {
             #mega-title {
-                font-size: 20pt;
+                font-size: 18pt;
             }		
             
         }
