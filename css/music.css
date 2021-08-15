@@ -47,42 +47,42 @@
         
         @media screen and (max-width: 900px) {
             #mega-title {
-                font-size: 42pt;
+                font-size: 56pt;
             }		
             
         }
         
         @media screen and (max-width: 768px) {
             #mega-title {
-                font-size: 32pt;
+                font-size: 42pt;
             }		
             
         }
         
         @media screen and (max-width: 588px) {
             #mega-title {
-                font-size: 26pt;
+                font-size: 32pt;
             }		
             
         }
         
         @media screen and (max-width: 488px) {
             #mega-title {
-                font-size: 20pt;
+                font-size: 26pt;
             }		
             
         }
         
         @media screen and (max-width: 388px) {
             #mega-title {
-                font-size: 16pt;
+                font-size: 20pt;
             }		
             
         }
         
         @media screen and (max-width: 300px) {
             #mega-title {
-                font-size: 12pt;
+                font-size: 16pt;
             }		
             
         }
