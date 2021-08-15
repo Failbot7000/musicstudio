@@ -5,17 +5,19 @@
 
         <h2>Events</h2>
         
-        <h3>March 2020</h3>
+        <h3>October-December 2021</h3>
+        <p>ABRSM Exams (Pending Dates)</p>
 
-<p>Federation Junior Festival (suspended to unknown date)</p>
+        <p>Saturday, November 13th: <a href="http://www.musicbymickey.com/sonatinafestival/">21st Annual Sonatina Festival</a>.</p>
 
-        <h3>April 2020</h3>
+        <p>Saturday, December 4th, 11th, or 18th: 5th Annual Holiday Studio Recital. </p>
 
-<p>ABRSM Exams (suspended, next exams to be held in October-November)</p>
+        <p>Final Date Selection TBD. </p>
+        <h3>January 2022</h3>
 
-        <h3>May 2020</h3>
+        <p>Saturday, January 22nd, 2022: Honors Festival Audition 8am-4pm (Grade 5-12 students only)</p>
 
-<p>May 24, 2020: Tentative Studio Recital Date (subject to rescheduling for public safety reasons)</p>
+        <p>Sunday, January 30th, 2022: Honors Festival Performances at 1:30pm and 3:00pm. </p>
 
         
         <!-- End Main Content -->

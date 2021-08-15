@@ -11,9 +11,9 @@
         <p>(608)-209-0088</p>
         <hr />
 		<h2>Email</h2>
-        <p><a href="mailto:dckuzuhara@gmail.com">dckuzuhara@gmail.com</a></p>
+        <p><a href="mailto:dckuzuhara.appassionato@gmail.com">dckuzuhara.appassionato@gmail.com</a></p>
         <h2>Business Hours</h2>
-        <p>Monday-Friday: 3:30pm-7:30pm, Saturday: 7:30am-7pm</p>
+        <p>Monday-Friday: 4:15-8pm, Saturday: 8:30-6pm</p>
         
 	</div> 
     <!-- End Main content -->
