@@ -14,6 +14,16 @@
         <p><a href="mailto:dckuzuhara.appassionato@gmail.com">dckuzuhara.appassionato@gmail.com</a></p>
         <h2>Business Hours</h2>
         <p>Monday-Friday: 4:15-8pm, Saturday: 8:30-6pm</p>
+        <h2>Got a question? Send any inquiry here:</h2>
+        <form action=”mailto:brfree91@hotmail.com” method=”POST” enctype=”multipart/form-data” name=”EmailForm”>
+
+
+Name:<br>
+<input type=”text” size=”19″ name=”ContactName”><br><br>
+Message:<br> <textarea name=”ContactCommentt” rows=”6″ cols=”20″>
+</textarea><br><br> <input type=”submit” value=”Submit”> </form>
+
+
         
 	</div> 
     <!-- End Main content -->
