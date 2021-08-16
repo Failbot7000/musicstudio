@@ -14,17 +14,18 @@
         <p><a href="mailto:dckuzuhara.appassionato@gmail.com">dckuzuhara.appassionato@gmail.com</a></p>
         <h2>Business Hours</h2>
         <p>Monday-Friday: 4:15-8pm, Saturday: 8:30-6pm</p>
+        
         <h2>Got a question? Send any inquiry here:</h2>
         
         
         <form action="https://getform.io/f/d938d2e7-c9d5-4766-9880-23763ab295c8" method="POST">
-            <label>Name</label>
-            <input type="text" name="name">
-            <label>Email</label>
-            <input type="email" name="email">
-            <label>Message</label>
-            <input type="text" name="message">
-            <button type="submit">Send</button>
+            <label>Name:</label>
+            <input type="text" name="name"><br />
+            <label>Email:</label>
+            <input type="email" name="email"><br />
+            <label>Message:</label>
+            <input type="text" name="message"><br />
+            <button type="submit">Submit</button>
         </form>
 
         
