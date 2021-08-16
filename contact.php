@@ -23,8 +23,8 @@
             <input type="text" name="name"><br />
             <label>Email:</label>
             <input type="email" name="email"><br />
-            <label>Message:</label>
-            <textarea rows=”5” cols=”40” name="message"></textarea><br />
+            <label>Message:</label><br />
+            <textarea rows=”8” cols=”80” name="message"></textarea><br />
             <button type="submit">Submit</button>
         </form>
 
