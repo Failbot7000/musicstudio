@@ -17,10 +17,16 @@
         <h2>Got a question? Send any inquiry here:</h2>
         
         
-        <form method="post" action="include/contactform.php">
-        <textarea name="message"></textarea>
-        <input type="submit">
-        </form>
+        <form method="post" name="myemailform" action="include/contactform.php">
+
+Enter Name:	<input type="text" name="name">
+
+Enter Email Address:	<input type="text" name="email">
+
+Enter Message:	<textarea name="message"></textarea>
+
+<input type="submit" value="Send Form">
+</form>
 
 
         
