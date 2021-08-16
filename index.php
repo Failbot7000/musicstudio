@@ -69,7 +69,7 @@
         <p>Feel free to contact me with any questions or inquiries at dckuzuhara.appassionato@gmail.com or via phone at (608) 209-0088. </p> 
         <!-- end text -->
         
-            <p>Hours: Tuesday-Friday: 3pm-9pm, Saturday: 8:30am-6pm Monday: by appointment only </p>	
+            <p>Hours: Monday-Friday: 4:15pm-8pm, Saturday: 8:30am-6pm</p>	
         
         
 	</div> 
