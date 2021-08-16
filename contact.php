@@ -17,15 +17,24 @@
         <h2>Got a question? Send any inquiry here:</h2>
         
         
-        <form method="post" name="myemailform" action="include/contactform.php">
-
-Enter Name:	<input type="text" name="name">
-
-Enter Email Address:	<input type="text" name="email">
-
-Enter Message:	<textarea name="message"></textarea>
-
-<input type="submit" value="Send Form">
+        <form action="https://getform.io/f/1838f5ec-ba23-472c-85bb-ffe32a97c0f9" method="POST">
+    <input type="text" name="name">
+    <input type="email" name="email">
+    <input type="text" name="message">
+    <!-- checkbox handle --> 
+    <input type="checkbox" name="subscribe" value="yes" checked>
+    <input type="hidden" name="subscribe" value="no">
+    <!-- radio button handle --> 
+    <input type="radio" name="gender" value="male" checked>
+    <input type="radio" name="gender" value="female">
+    <input type="radio" name="gender" value="other">
+    <!-- select field handle --> 
+    <select name="work-experience">
+        <option value="one-year">0-1 years</option>
+        <option value="one-five-years">1-5 years</option>
+        <option value="five-plus-years">5+ years</option>
+    </select>
+    <button type="submit">Send</button>
 </form>
 
 
