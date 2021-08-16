@@ -24,7 +24,7 @@
             <label>Email:</label>
             <input type="email" name="email"><br />
             <label>Message:</label>
-            <input type="text" name="message"><br />
+            <textarea rows=”5” cols=”40” name="message"></textarea><br />
             <button type="submit">Submit</button>
         </form>
 
