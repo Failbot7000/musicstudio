@@ -17,14 +17,15 @@
         <h2>Got a question? Send any inquiry here:</h2>
         
         
-        <form action="https://getform.io/f/1838f5ec-ba23-472c-85bb-ffe32a97c0f9" method="POST">
-    <input type="text" name="name">
-    <input type="email" name="email">
-    <input type="text" name="message">
-
-    <button type="submit">Send</button>
-</form>
-
+        <form action="https://getform.io/f/d938d2e7-c9d5-4766-9880-23763ab295c8" method="POST">
+            <label>Name</label>
+            <input type="text" name="name">
+            <label>Email</label>
+            <input type="email" name="email">
+            <label>Message</label>
+            <input type="text" name="message">
+            <button type="submit">Send</button>
+        </form>
 
         
 	</div> 
