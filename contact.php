@@ -13,7 +13,7 @@
 		<h2>Email</h2>
         <p><a href="mailto:dckuzuhara.appassionato@gmail.com">dckuzuhara.appassionato@gmail.com</a></p>
         <h2>Business Hours</h2>
-        <p>Monday-Friday: 4:15-8pm, Saturday: 8:30-6pm</p>
+        <p>Monday-Friday: 4:15pm-8pm, Saturday: 8:30am-6pm</p>
         
         <h2>Got a question? Send any inquiry here:</h2>
         
