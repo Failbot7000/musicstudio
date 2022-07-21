@@ -2,6 +2,7 @@
             include("include/header.php");
         ?>
      	<!-- Begin Main Content -->
+     	<script src="https://www.google.com/recaptcha/enterprise.js?render=6Lc2PAQhAAAAAHSZ4dy8bM_Aw90UGz8TBQ6ehJCX"></script>
         <h2>Location</h2>
         <p>8107 Starr Grass Drive<br />Madison WI, 53719</p>
         <br />
@@ -20,14 +21,29 @@
         <h2>Got a question? Send any inquiry here:</h2>
         
         
-        <form action="https://getform.io/f/d938d2e7-c9d5-4766-9880-23763ab295c8" method="POST">
+        <form name="contactForm" action="https://getform.io/f/d938d2e7-c9d5-4766-9880-23763ab295c8" method="POST" onsubmit="return validateForm()">
             <label>Name:</label>
             <input type="text" name="name"><br />
             <label>Email:</label>
             <input type="email" name="email"><br />
             <textarea placeholder="Enter your message here" rows="5" cols="33" name="message"></textarea><br />
+            <div class="g-recaptcha" data-sitekey="6Lf2yQkhAAAAAGrIFAFN_yPeJ5W8To6I-8pSzLzK"></div>
             <button type="submit">Submit</button>
         </form>
+        <script>
+            function validateForm() {
+                let name = document.forms["contactForm"]["name"].value;
+                let email = document.forms["contactForm"]["email"].value;
+                if (name == "") {
+                    alert("Name must be filled out");
+                return false;
+                } 
+                if (email == "")
+                    alert("Email must be filled out");
+                return false;
+                }
+                return true;
+        </script>
 
         
 	</div> 
