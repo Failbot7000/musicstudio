@@ -2,7 +2,8 @@
             include("include/header.php");
         ?>
      	<!-- Begin Main Content -->
-     	<script src="https://www.google.com/recaptcha/enterprise.js?render=6Lc2PAQhAAAAAHSZ4dy8bM_Aw90UGz8TBQ6ehJCX"></script>
+     	
+    <script src="https://www.google.com/recaptcha/api.js" async defer></script>
         <h2>Location</h2>
         <p>8107 Starr Grass Drive<br />Madison WI, 53719</p>
         <br />
@@ -27,7 +28,7 @@
             <label>Email:</label>
             <input type="email" name="email"><br />
             <textarea placeholder="Enter your message here" rows="5" cols="33" name="message"></textarea><br />
-            <div class="g-recaptcha" data-sitekey="6Lf2yQkhAAAAAGrIFAFN_yPeJ5W8To6I-8pSzLzK"></div>
+            <div class="g-recaptcha" data-sitekey="6LfVsgMhAAAAAI914RKVmtchyTfNBuqZKZqtYTOo"></div>
             <button type="submit">Submit</button>
         </form>
         <script>
